@@ -30,11 +30,12 @@ https://github.com/backdrop-contrib/maintenance_page/issues.
 Current Maintainers
 -------------------
 
-- Peter Anderson (https://github.com/BWPanda).
+- Seeking maintainer(s)
 
 Credits
 -------
 
+- Developed for Backdrop CMS by [Peter Anderson](https://github.com/BWPanda).
 - Inspired by Drupal's 'Clean Maintenance' module
   (https://www.drupal.org/project/clean_maintenance).
 
